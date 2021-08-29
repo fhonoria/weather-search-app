@@ -1,7 +1,6 @@
 import React from "react";
 
 export default function formatDate(props) {
-  console.log(props);
   let days = [
     "Sunday",
     "Monday",
